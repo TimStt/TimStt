@@ -11,7 +11,7 @@
 
 * 🌍  Я живу в городе Москва
 * ✉️  You can contact me at [timoshka200004@gmail.com](mailto:timoshka200004@gmail.com)
-* 🤝  I'm open to collaborating on в любых проектах
+* 🤝  Открыт к коллаборации в любых проектах
 
 <p align="center">
  <img width="600" src="https://raw.githubusercontent.com/FilimonovAlexey/FilimonovAlexey/d143a6d107548ae79db64e4a673b88c59329388a/assets/github-snake.svg" alt="snake"/>
