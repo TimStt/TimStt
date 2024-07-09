@@ -14,5 +14,5 @@
 * 🤝  I'm open to collaborating on в любых проектах
 
 <p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
+ <img width="600" src="https://raw.githubusercontent.com/FilimonovAlexey/FilimonovAlexey/d143a6d107548ae79db64e4a673b88c59329388a/assets/github-snake.svg" alt="snake"/>
 </p>
