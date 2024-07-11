@@ -24,7 +24,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TimStt&locale=ru&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=dracula&hide_border=false&order=2" height="150"  alt="languages graph"  />
 </div>
 
-![Codewars](https://github.r2v.ch/codewars?user=TimStt)
+
 
 <p align="center" >
     <a href="LINK TO: WHEN CLICKED">
