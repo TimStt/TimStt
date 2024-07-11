@@ -19,10 +19,10 @@
 </div>
 
 <h2>🔥 Статистика: </h2>
-<div align="center">
+<div align="center" style="margin-bottom: 30px">
   <img src="https://github-readme-stats.vercel.app/api?username=TimStt&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=ru&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TimStt&locale=ru&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=dracula&hide_border=false&order=2" height="150"  alt="languages graph"  />
 </div>
-<div>
-  ![Codewars](https://github.r2v.ch/codewars?user=TimStt)
-</div>
+
+![Codewars](https://github.r2v.ch/codewars?user=TimStt)
+
