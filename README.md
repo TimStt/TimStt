@@ -24,6 +24,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TimStt&locale=ru&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=dracula&hide_border=false&order=2" height="150"  alt="languages graph"  />
 </div>
 
+<table>
+  <tr>
+    <td>Просмотров</td>
+    <td><img src="https://profile-counter.glitch.me/TimStt/count.svg" alt="" /></td>
+  </tr>
+</table>
+
 
 
 <div align="center" >
