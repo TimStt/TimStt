@@ -12,7 +12,7 @@
 <h2>👩‍💻 Проекты: </h2>
 <ol>
 <li>
-     <a href="  https://rushel.webtm.ru">
+     <a href="https://rushel.webtm.ru">
  рушель
     </a>
 
